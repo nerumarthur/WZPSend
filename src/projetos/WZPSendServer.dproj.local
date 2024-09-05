@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/26 08:12:58.000.513,=C:\Users\stein\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/09/01 13:19:23.000.833,D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\WZPSendServer.dproj=C:\Users\stein\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024/09/01 13:20:16.000.249,=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 13:20:32.000.052,D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\registros\Registros.WZPSendServer.pas=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 13:22:26.000.708,=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 13:23:05.000.380,D:\ASVD\ProjetosPessoais\WZPSend\src\controllers\Controller.Mensagens.pas=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 13:26:11.000.872,=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 13:26:28.000.428,=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 13:26:40.000.547,D:\ASVD\ProjetosPessoais\WZPSend\src\datamodules\DataModule.Global.dfm=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.dfm</Transaction>
+    <Transaction>2024/09/01 13:26:40.000.547,D:\ASVD\ProjetosPessoais\WZPSend\src\datamodules\DataModule.Global.pas=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 14:04:22.000.419,=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 14:04:42.000.502,D:\ASVD\ProjetosPessoais\WZPSend\src\utils\Status.Mensagem.pas=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 14:20:34.000.089,=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 14:20:42.000.637,D:\ASVD\ProjetosPessoais\WZPSend\src\utils\Variaveis.Sessao.pas=D:\ASVD\ProjetosPessoais\WZPSend\src\projetos\Unit1.pas</Transaction>
+    <Transaction>2024/09/01 14:20:53.000.587,D:\ASVD\ProjetosPessoais\WZPSend\src\utils\Variaveis.Server.pas=D:\ASVD\ProjetosPessoais\WZPSend\src\utils\Variaveis.Sessao.pas</Transaction>
+  </Transactions>
+</BorlandProject>
